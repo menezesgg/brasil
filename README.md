@@ -16,7 +16,7 @@
     <main>
       <section id="sobre">
         <h1>Sobre Nós</h1>
-        <p>Somos uma empresa especializada em desenvolvimento de sites e aplicativos web. Oferecemos soluções personalizadas para atender às suas necessidades e objetivos de negócios.</p>
+        <p>Somos uma empresa especializada em desenvolvimento de sites e aplicativos web. Oferecemos soluções personalizadas para atender às suas necessidades e objetivos de sistemas.</p>
       </section>
       <section id="servicos">
         <h1>Nossos Serviços</h1>
