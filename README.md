@@ -7,9 +7,9 @@
     <header>
       <nav>
         <ul>
-          <li><a href="#sobre">Sobre</a></li>
-          <li><a href="#servicos">Serviços</a></li>
-          <li><a href="#contato">Contato</a></li>
+          <li><a href="https://programador.site/sobre-nos.html">Sobre</a></li>
+          <li><a href="https://programador.site/blog.html">Blog</a></li>
+          <li><a href="https://programador.site/contato-programador-site.html">Contato</a></li>
         </ul>
       </nav>
     </header>
