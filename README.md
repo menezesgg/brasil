@@ -5,6 +5,7 @@
   </head>
   <body>
     <header>
+    <h1>Desenvolvedor de Sites</h1>
       <nav>
         <ul>
           <li><a href="https://programador.site/sobre-nos.html">Sobre</a></li>
@@ -15,11 +16,11 @@
     </header>
     <main>
       <section id="sobre">
-        <h1>Sobre Nós</h1>
+        <h2>Sobre Nós</h2>
         <p>Somos uma empresa especializada em desenvolvimento de sites e aplicativos web. Oferecemos soluções personalizadas para atender às suas necessidades e objetivos de sistemas.</p>
       </section>
       <section id="servicos">
-        <h1>Nossos Serviços</h1>
+        <h2>Nossos Serviços</h2>
         <ul>
           <li>Desenvolvimento de sites</li>
           <li>Otimização de sites para motores de busca</li>
@@ -28,7 +29,7 @@
         </ul>
       </section>
       <section id="contato">
-        <h1>Entre em Contato</h1>
+        <h3>Entre em Contato</h3>
       </section>
     </main>
     <footer>
