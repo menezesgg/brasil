@@ -29,15 +29,6 @@
       </section>
       <section id="contato">
         <h1>Entre em Contato</h1>
-        <form action="enviar_mensagem.php" method="post">
-          <label for="nome">Nome:</label>
-          <input type="text" id="nome" name="nome">
-          <label for="email">E-mail:</label>
-          <input type="email" id="email" name="email">
-          <label for="mensagem">Mensagem:</label>
-          <textarea id="mensagem" name="mensagem"></textarea>
-          <input type="submit" value="Enviar">
-        </form>
       </section>
     </main>
     <footer>
